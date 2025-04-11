@@ -1,2 +1,16 @@
-# online-store
-The goal of this project is to create a simple and responsive online store using Flutter (Dart). This store will allow users to browse products, view detailed product information, add items to a shopping cart, and proceed to a (dummy) checkout. It serves as a foundational project for learning Flutter app development with practical state management.
+# store
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
